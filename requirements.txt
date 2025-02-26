@@ -1,0 +1,5 @@
+numpy
+matplotlib
+openpyxl
+jupyterlab
+jupyterlab-language-pack-ja-JP
