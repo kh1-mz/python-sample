@@ -3,3 +3,4 @@ matplotlib
 openpyxl
 jupyterlab
 jupyterlab-language-pack-ja-JP
+japanize-matplotlib
