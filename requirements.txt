@@ -5,3 +5,4 @@ jupyterlab
 jupyterlab-language-pack-ja-JP
 japanize-matplotlib
 scikit-learn
+seaborn
